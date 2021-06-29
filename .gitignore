@@ -1,0 +1,6 @@
+build/
+3rdparty/build
+3rdparty/install
+3rdparty/log*
+*build*
+.idea
